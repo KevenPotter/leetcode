@@ -20,7 +20,7 @@ import java.util.*;
  * 输入:[2,2,1,1,1,2,2]
  * 输出:2
  */
-public class MostElements169 {
+public class MajorityElement169 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
